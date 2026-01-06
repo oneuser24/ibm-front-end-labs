@@ -1,1 +1,1 @@
-Employee management system using HTML and JavaScript
+Form validation with JavaScript
